@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/SaiqaTahir/Downloads/jar_files/junit-jupiter-api-5.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SaiqaTahir/Downloads/selenium-java-4.14.1/selenium-api-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SaiqaTahir/Downloads/selenium-java-4.14.1/selenium-chrome-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SaiqaTahir/Downloads/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/SaiqaTahir/Downloads/pom.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
